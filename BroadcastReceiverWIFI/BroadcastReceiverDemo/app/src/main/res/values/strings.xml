@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadcastReceiverDemo</string>
+    <string name="wifi_is_off">wifi_is_off</string>
+</resources>
